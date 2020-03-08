@@ -36,3 +36,5 @@ captures/
 *.iml
 .idea/*
 
+# Mac OS auto generated files
+.DS_Store
